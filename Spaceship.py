@@ -1,3 +1,4 @@
+#coding=uft-8
 import time
 shipName="USSA"
 captain="cjw"
